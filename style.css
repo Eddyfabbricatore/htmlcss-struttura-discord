@@ -91,6 +91,15 @@ section:nth-child(odd){
 /* footer */
 footer{
   padding: 20px;
-  height: 100px;
   background-color: #25282d;
+}
+
+footer .footer-dati{
+  border-bottom: 2px solid #d1d2d3;
+}
+
+.footer-dati .dati{
+  flex-grow: 2;
+  height: 600px;
+  background-color: #f08080;
 }
