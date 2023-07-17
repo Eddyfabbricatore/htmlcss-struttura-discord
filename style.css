@@ -128,3 +128,7 @@ footer .footer-dati{
   height: 600px;
   background-color: #21afa8;
 }
+
+footer .footer-collegamenti{
+  margin: 0 auto;
+}
