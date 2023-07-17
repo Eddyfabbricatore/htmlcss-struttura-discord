@@ -49,15 +49,13 @@ header nav ul li a{
 
 /* main */
 main .dati{
-  min-height: 400px;
   background-color: #03038a;
-  padding-top: 50px;
 }
 
 .dati .box-dati{
   min-height: 300px;
   max-width: 800px;
-  margin: 0 auto;
+  margin: 40px auto;
   background-color: #e980ea;
 }
 
