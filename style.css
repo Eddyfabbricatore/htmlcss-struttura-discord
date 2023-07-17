@@ -15,8 +15,7 @@
 
 .container{
   width: 80%;
-  max-width: 1200px;
-  min-height: 50px;
+  max-width: 1000px;
   margin: 20px auto;
 }
 
@@ -29,6 +28,7 @@ header{
 header .menu-flex{
   justify-content: space-between;
   align-items: center;
+  padding: 10px;
   background-color: #d3a024;
 }
 
@@ -87,12 +87,13 @@ section:nth-child(odd){
 
 /* footer */
 footer{
-  padding: 20px;
+  padding-top: 20px;
   background-color: #25282d;
 }
 
 footer .footer-dati{
   padding-bottom: 20px;
+  border: none;
   border-bottom: 2px solid #d1d2d3;
 }
 
@@ -127,12 +128,12 @@ footer .footer-dati{
 }
 
 footer .footer-collegamenti{
-  margin: 0 auto;
+  margin: 0px auto;
 }
 
 footer .footer-flex{
   align-items: center;
-  margin: 0 auto;
+  margin: 20px auto;
 }
 
 footer .footer-flex.go{
