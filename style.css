@@ -86,3 +86,11 @@ section:nth-child(odd){
   background-color: #238925;
   height: 800px;
 }
+
+
+/* footer */
+footer{
+  padding: 20px;
+  height: 100px;
+  background-color: #25282d;
+}
