@@ -13,9 +13,16 @@
   border: 1px solid black;
 }
 
+.container{
+  width: 80%;
+  max-width: 1200px;
+  min-height: 50px;
+  margin: 20px auto;
+  background-color: red;
+}
+
 
 /* header */
 header{
-  height: 100px;
   background-color: #bfe5ff;
 }
