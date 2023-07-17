@@ -26,3 +26,23 @@
 header{
   background-color: #bfe5ff;
 }
+
+header .menu-flex{
+  justify-content: space-between;
+  align-items: center;
+  background-color: #d3a024;
+}
+
+header nav ul{
+  list-style: none;
+}
+
+header nav ul li{
+  display: inline-block;
+  padding: 0 20px;
+}
+
+header nav ul li a{
+  text-decoration: none;
+  padding: 10px 20px;
+}
