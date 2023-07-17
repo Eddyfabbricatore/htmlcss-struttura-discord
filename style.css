@@ -95,6 +95,7 @@ footer{
 }
 
 footer .footer-dati{
+  padding-bottom: 20px;
   border-bottom: 2px solid #d1d2d3;
 }
 
@@ -102,4 +103,28 @@ footer .footer-dati{
   flex-grow: 2;
   height: 600px;
   background-color: #f08080;
+}
+
+.footer-dati .prodotto{
+  flex-grow: 1;
+  height: 600px;
+  background-color: #21afa8;
+}
+
+.footer-dati .compagnia{
+  flex-grow: 1;
+  height: 600px;
+  background-color: #21afa8;
+}
+
+.footer-dati .risorse{
+  flex-grow: 1;
+  height: 600px;
+  background-color: #21afa8;
+}
+
+.footer-dati .norme{
+  flex-grow: 1;
+  height: 600px;
+  background-color: #21afa8;
 }
