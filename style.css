@@ -132,3 +132,8 @@ footer .footer-dati{
 footer .footer-collegamenti{
   margin: 0 auto;
 }
+
+footer .footer-flex{
+  align-items: center;
+  margin: 0 auto;
+}
