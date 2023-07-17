@@ -12,3 +12,10 @@
   display: flex;
   border: 1px solid black;
 }
+
+
+/* header */
+header{
+  height: 100px;
+  background-color: #bfe5ff;
+}
