@@ -18,7 +18,6 @@
   max-width: 1200px;
   min-height: 50px;
   margin: 20px auto;
-  background-color: red;
 }
 
 
@@ -45,4 +44,19 @@ header nav ul li{
 header nav ul li a{
   text-decoration: none;
   padding: 10px 20px;
+}
+
+
+/* main */
+main .dati{
+  min-height: 400px;
+  background-color: #03038a;
+  padding-top: 50px;
+}
+
+.dati .box-dati{
+  min-height: 300px;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #e980ea;
 }
