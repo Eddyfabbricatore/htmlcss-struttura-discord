@@ -60,12 +60,11 @@ main .dati{
 }
 
 section .container{
-  min-height: 400px;
   margin: 40px auto;
 }
 
 .main-flex div.img-side{
-  flex-grow: 2;
+  flex-grow: 1.5;
   min-height: 400px;
   background-color: #208df8;
 }
