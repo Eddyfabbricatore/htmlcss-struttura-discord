@@ -81,3 +81,8 @@ section .container{
 section:nth-child(odd){
   background-color: #cdcdcf;
 }
+
+.ready .container{
+  background-color: #238925;
+  height: 800px;
+}
