@@ -137,3 +137,8 @@ footer .footer-flex{
   align-items: center;
   margin: 0 auto;
 }
+
+footer .footer-flex.go{
+  justify-content: flex-end;
+  align-items: center;
+}
